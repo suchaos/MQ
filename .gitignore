@@ -1,0 +1,4 @@
+# Project exclude paths
+/mq-activemq-01/target/
+/mq-activemq-02/target/
+/mq-rocketmq-01/target/

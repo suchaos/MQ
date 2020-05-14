@@ -1,0 +1,10 @@
+spring:
+  activemq:
+    broker-url: tcp://localhost:61616
+    pool:
+      enabled: true
+  jms:
+    pub-sub-domain: true
+#    user: null
+#    password: null
+
